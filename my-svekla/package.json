@@ -1,5 +1,6 @@
 {
   "name": "my-svekla",
+  "homepage": "https://noup1.github.io/svekla",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
