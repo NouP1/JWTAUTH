@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/svekla/static/css/main.073c9b0a.css",
-    "main.js": "/svekla/static/js/main.598368ec.js",
-    "static/js/787.28cb0dcd.chunk.js": "/svekla/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/svekla/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/svekla/index.html",
-    "main.073c9b0a.css.map": "/svekla/static/css/main.073c9b0a.css.map",
-    "main.598368ec.js.map": "/svekla/static/js/main.598368ec.js.map",
-    "787.28cb0dcd.chunk.js.map": "/svekla/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/Svekla/static/css/main.073c9b0a.css",
+    "main.js": "/Svekla/static/js/main.d170705f.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Svekla/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/Svekla/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Svekla/index.html",
+    "main.073c9b0a.css.map": "/Svekla/static/css/main.073c9b0a.css.map",
+    "main.d170705f.js.map": "/Svekla/static/js/main.d170705f.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Svekla/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.598368ec.js"
+    "static/js/main.d170705f.js"
   ]
 }
